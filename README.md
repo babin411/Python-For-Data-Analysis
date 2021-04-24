@@ -2,8 +2,8 @@
  This repo containst the notes and important codes obtained after learning from Python For Data Analysis by Wes Mckinney 2nd Edition
  
 
-Chapters In Order
-Chapter 1  - Preliminaries
+Chapters In Order<br/>
+Chapter 1  - Preliminaries<br/>
 Chapter 2 - Python Langugage Basics, IPython and Jupyter Notebooks
 Chapter 3 - Built in Data Structures, Functions and Files
 Chapter 4 - NumPy Basics: Arrays and Vectorized Computation
